@@ -28,6 +28,13 @@
 
 ![alt text](image-2.png) 
 
+<ul>
+    <li>Acessar o terminal novamente e executar o comando "php artisan migrate" e depois o comando "php artisan db:seed"</li>
+    <li>Ainda no terminal, vamos inciar o servidor php. Execute o comando "php artisan serve"</li>
+    <li>Por padrão, ele irá rodar o servidor na porta 8000</li>
+    <li>link para acessar o projeto: http://localhost:8000/</li>
+</ul>
+
 <p>Dentro do projeto Laravel já existem semeadores para o banco de dados para o melhor entendimento do sistema</p>
 <p>Usuário para acesso ao sistema:</p>
 <p><b>EMAIL:</b>exemplo@exemplo.com.br</p>
