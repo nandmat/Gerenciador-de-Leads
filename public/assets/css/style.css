@@ -1,0 +1,16 @@
+.form-container {
+    max-width: 450px;
+    padding: 1rem;
+}
+
+.header-card {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.form-control:focus {
+    border-color: #ffc107;
+    box-shadow: 0 0 10px rgba(255, 193, 7, 0.5);
+}
